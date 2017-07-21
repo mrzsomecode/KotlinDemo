@@ -1,3 +1,4 @@
 # KotlinDemo
-MVP by KotlinDemo \r\n
+MVP by KotlinDemo 
+
 use design + dagger2 + retrofit2 + RxJava2 + recyclerView + cardview
